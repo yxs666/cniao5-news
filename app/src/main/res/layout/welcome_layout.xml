@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <com.cniao5.app36kr_cnk.widget.CustomVideoView
+        android:id="@+id/welcome_videoview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+     <Button
+         android:id="@+id/welcome_button"
+         android:layout_marginBottom="30dp"
+         android:layout_centerHorizontal="true"
+         android:layout_alignParentBottom="true"
+         android:text="进入菜鸟新闻1.0"
+         android:textSize="16sp"
+         android:textColor="@color/color_white"
+         android:layout_width="150dp"
+         android:layout_height="40dp"
+         android:background="@drawable/head_bt_bg"/>
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="30dp"
+    android:paddingTop="50dp">
+    <!--顶部头像等资料信息-->
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:paddingLeft="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <ImageView
+                android:id="@+id/iv_bottom"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/icon_avatar" />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="名字:jiangqqlmj"
+                    android:textColor="#ffffff"
+                    android:textSize="18sp" />
+                <TextView
+                    android:layout_marginTop="6dp"
+                    android:text="菜鸟窝高级会员"
+                    android:textColor="#ffffff"
+                    android:textSize="14sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <!--中间信息列表-->
+        <ListView
+            android:layout_marginTop="100dp"
+            android:cacheColorHint="#00000000"
+            android:scrollbars="none"
+            android:id="@+id/lv_left_main"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+
+</RelativeLayout>

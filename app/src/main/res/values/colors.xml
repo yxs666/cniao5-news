@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_tab_title">#777777</color>
+    <color name="color_head_title">#AAAAAA</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_lv_selector">#aaeeeeee</color>
+
+    <!--标签背景颜色-->
+    <color name="mask_tags_1">#f45170</color>
+    <color name="mask_tags_2">#f0cc23</color>
+    <color name="mask_tags_3">#a289df</color>
+    <color name="mask_tags_4">#ff6161</color>
+    <color name="mask_tags_5">#678ce0</color>
+    <color name="mask_tags_6">#42d1db</color>
+    <color name="mask_tags_7">#51cc96</color>
+    <color name="mask_tags_8">#1da8fe</color>
+    <color name="mask_tags_9">#9ec72c</color>
+    <color name="mask_tags_10">#478de4</color>
+    <color name="mask_tags_11">#ffa319</color>
+    <color name="mask_tags_12">#f08945</color>
+
+</resources>

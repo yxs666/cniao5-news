@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.cniao5.cwidgetutils.PullToRefreshListView
+        android:id="@+id/home_listview"
+        android:cacheColorHint="@color/color_transparent"
+        android:divider="@drawable/bottom_line_gray"
+        android:dividerHeight="2dp"
+        android:layout_width="fill_parent"
+        android:scrollbars="vertical"
+        android:layout_height="wrap_content"/>
+    <FrameLayout
+        android:id="@+id/home_framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <include layout="@layout/loading"/>
+        <include layout="@layout/empty"/>
+        <include layout="@layout/error"/>
+    </FrameLayout>
+</RelativeLayout>
