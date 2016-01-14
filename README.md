@@ -6,7 +6,7 @@
 <br />课程地址：   http://www.cniao5.com/clazz/view/10076.html
 <br />视频下载链接： http://pan.baidu.com/s/1eQLyQxc 密码：3ts1
 <br /><br />**【运行截图】**
-<br/><img src="https://github.com/yxs666/cniao5news/blob/master/screenshot/cniaonews.gif" width="460" height="768"/>
+<br /><img src="https://github.com/yxs666/cniao5news/blob/master/screenshot/cniaonews.gif" width="460" height="768"/>
 <img src="https://github.com/yxs666/cniao5-news/blob/master/screenshot/pull_4 (2).gif" width="460" height="768"/>
 <img src="https://github.com/yxs666/cniao5-news/blob/master/screenshot/Screenshot_2015-12-07-12-36-11.png" width="460" height="768"/>
 <img src="https://github.com/yxs666/cniao5-news/blob/master/screenshot/Screenshot_2015-12-07-12-36-18.png" width="460" height="768"/>
