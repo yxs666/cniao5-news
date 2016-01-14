@@ -8,6 +8,8 @@
 
 **【运行截图】**
 
+<img src='https://github.com/yxs666/cniao5-news/screenshot/cniaonews.gif'>
+
 
 [菜鸟新闻](http://www.cniao5.com)
 
